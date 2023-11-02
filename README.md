@@ -2,7 +2,12 @@
 The purpose of this project is to analyze geospatial data spanning the last eight years to anticipate and prevent wildlife-vehicle collisions.
 
 <h3>Background</h3>
-As someone who has long been troubled by the distressing sight of lifeless animals on the sides of roads and highways during my drives, my concern has deepened over time. These incidents, which appear to be increasingly prevalent, present a critical issue. In Canada, it's estimated that a wildlife-vehicle collision happens roughly every 38 minutes. In the province of Ontario alone, there are approximately 14,000 reported wildlife collisions involving large animals each year. These collisions not only pose immediate risks to both human and animal lives but also have far-reaching consequences, including contributing to population declines, particularly among rare and endangered species.
+As someone who has long been troubled by the distressing sight of lifeless animals on the sides of roads and highways during my drives, my concern has deepened over time. These incidents, which appear to be increasingly prevalent, present a critical issue. In Canada, it's estimated that a wildlife-vehicle collision happens roughly every 38 minutes. In the province of Ontario alone, there are approximately 14,000 reported wildlife collisions involving large animals each year. These collisions not only pose immediate risks to both human and animal lives but also have far-reaching consequences, including contributing to population declines, particularly among rare and endangered species. The visual below illustrates the consequences of wildlife collisions in Canada.
+
+<p align="center">
+  <br>
+  <img src="/images/img1.JPG">
+</p>
 
 <h3>Purpose and Scope of Analysis</h3>
 
