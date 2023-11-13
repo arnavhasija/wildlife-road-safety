@@ -35,7 +35,7 @@ Understanding the spatial distribution of wildlife-vehicle collisions helps set 
 
 The chart below explores the number of species impacted by month and year. A striking seasonal pattern becomes evident, where the data unveils annual spikes in November. This recurring phenomenon signifies a crucial period characterized by increased wildlife movement and heightened collision risks.
 
-The November spike in wildlife collisions can be attributed to a confluence of factors. Seasonal migrations, mating periods, and hunting seasons align during this time, contributing to the surge in incidents. As wildlife embark on journeys or become more active due to hunting pressures, they are more likely to cross paths with vehicular traffic.
+The November spike in wildlife collisions can be attributed to a confluence of factors. Seasonal migrations, mating periods, and hunting seasons align during this time, contributing to the surge in incidents. As wildlife embark on journeys or become more active due to hunting pressures, they are more likely to cross paths with vehicular traffic. This underscores the importance of understanding the seasonal dynamics of wildlife collisions, contributing to strategies for wildlife protection and road safety. By delving into the factors behind these patterns, it offers valuable insights for conservation efforts and roadway design considerations.
 
 <p align="center">
   <br>
@@ -44,15 +44,20 @@ The November spike in wildlife collisions can be attributed to a confluence of f
 
 <b>Species Distribution:</b>
 
-The heatmap chart showcases the diversity of species impacted by these collisions. Among the species analyzed, White-Tailed Deer emerges as the most frequently affected, with 9944 recorded incidents. Following closely is Mule Deer with 8014 incidents, highlighting the significance of these species in the collision data. Additionally, the analysis identifies Moose, Porcupine, and Skunk as notable species affected by vehicular collisions.
+The dynamic interplay of species impacted by collisions is vividly portrayed in the heatmap chart and the chart below, revealing a spectrum of diversity among the top 10 species affected. White-Tailed Deer takes the forefront, accounting for a substantial 32.4% of the total collisions, with a staggering 9944 recorded incidents. Mule Deer follows closely behind, contributing 26.1% with 8014 incidents, emphasizing the considerable impact of these species on collision data.
 
-This underscores the importance of understanding the seasonal dynamics of wildlife collisions, contributing to strategies for wildlife protection and road safety. By delving into the factors behind these patterns, it offers valuable insights for conservation efforts and roadway design considerations.
+In addition to deer species, the analysis highlights other notable contributors to vehicular collisions. Moose, registering at 6.7% (2066 incidents), Coyote at 6.5%, and Porcupine at 4.6%, add to the diversity of species affected. This comprehensive insight prompts a closer examination of why these species, including deer, are prominently affected. Factors such as population density, inherent vulnerability due to increased movement, and external influences on their habitats may contribute to the observed collision rates. Understanding these nuances is vital for formulating targeted solutions and strategies to minimize collisions and foster coexistence between vehicular traffic and diverse wildlife populations.
+
+<p align="center">
+  <br>
+  <img src="/images/img4.JPG">
+</p>
 
 <h3>Geospatial Analysis</h3>
 
 The visual representation below illustrates the specific locations where incidents involving Elk occurred over the course of six years. The subsequent scatter plot provides a comprehensive overview of the average latitude and average longitude values for each species affected by incidents. These insights are instrumental in discerning the prevalent geographical areas where a higher frequency of incidents is observed. Such knowledge enables us to identify regions of heightened risk for certain species, paving the way for targeted conservation efforts and preventive measures in those specific geographical zones. This analytical approach allows us to identify regions of elevated risk not only for Elk but also for other species impacted by incidents.
 
-Two distinct clusters emerge in the geographical distribution of Elk incidents — one in the southern region near Lethbridge and another in the northern western part of Alberta near Grande Prairie. There were also concerns raised in a recent article regarding Parks Canada's monitoring of the declining elk population in Banff. The article underscores a worrisome trend in elk population decline across Alberta in recent years. An annual survey conducted in the lower Bow Valley, spanning from Castle Mountain to the east gate of Banff National Park, reported a fall classified count of 139 elk in 2022. This figure represents a notable decline compared to previous years: 171 in 2021, 212 in 2020, 249 in 2019, and 267 in 2018. The observed decrease raises significant conservation concerns, highlighting the importance of continued monitoring and conservation efforts to safeguard Alberta's elk population.
+Two distinct clusters emerge in the geographical distribution of Elk incidents — one in the southern region near Lethbridge and another in the northwestern part of Alberta near Grande Prairie. There were also concerns raised in a recent article regarding Parks Canada's monitoring of the declining elk population in Banff. The article underscores a worrisome trend in elk population decline across Alberta in recent years. An annual survey conducted in the lower Bow Valley, spanning from Castle Mountain to the east gate of Banff National Park, reported a fall classified count of 139 elk in 2022. This figure represents a notable decline compared to previous years: 171 in 2021, 212 in 2020, 249 in 2019, and 267 in 2018. The observed decrease raises significant conservation concerns, highlighting the importance of continued monitoring and conservation efforts to safeguard Alberta's Elk population.
 
 <p align="center">
   <br>
