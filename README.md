@@ -71,6 +71,22 @@ The following are some of the insights from the analysis of the average latitude
 
 This relative comparison provides insights into the diverse geographical patterns of wildlife collisions for each species, aiding in the development of targeted preventive measures for specific regions and species.
 
+The visualization below shows the changing landscape of collision incidents, particularly in the year 2022 compared to all the previous years. 
+
+<p align="center">
+  <br>
+  <img src="/images/img8.JPG">
+</p>
+
+The geospatial visualization of incident data using latitude and longitude coordinates revealed distinctive trends:
+
+- <b>Reduced Incidents in Northern Regions</b>: Notably, 2022 exhibited a decline in the number of incidents in the Northern parts, particularly in proximity to Grande Prairie. This shift may indicate alterations in wildlife movement patterns or changes in habitat usage in these regions.
+
+- <b>Persistent Hotspots Near National Parks</b>: The concentration of incidents remained conspicuous around National Parks, with Banff emerging as one of the enduring hotspots. This sustained prominence suggests the continued vulnerability of wildlife in these protected areas, highlighting the need for targeted conservation efforts.
+
+- <b>Decrease in Incidents South of Lethbridge</b>: An intriguing observation in 2022 was a noticeable reduction in incidents in the Southern regions, particularly south of Lethbridge. This could be attributed to various factors, including local conservation initiatives or changes in human activities influencing wildlife behavior.
+
+- <b>Consistent Incidents Near Major Cities</b>: Despite fluctuations in certain regions, incidents continued to be significant in proximity to major cities such as Edmonton, Calgary, and Red Deer. The persistent occurrence near urban centers underscores the ongoing challenges of wildlife-urban interactions and emphasizes the importance of implementing measures to mitigate such incidents.
 
 <h2>Clustering Analysis</h2>
 
