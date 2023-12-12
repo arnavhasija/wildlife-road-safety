@@ -117,3 +117,22 @@ The heatmap chart below illustrates the normalized number of incidents for each 
 <b>Cluster 3</b>: Varied monthly distribution with notable incidents in October, November, and December, potentially related to fall wildlife movements. Substantial Deer, Mule incidents (1300) indicate areas with a higher population. November's peak coincides with increased wildlife movement.
 
 These findings underscore the importance of considering seasonal and species-specific patterns for targeted wildlife collision prevention. The clusters offer a geographical context, aiding in pinpointing regions with distinct collision risk factors.
+
+
+<h2>Conclusion: Unveiling Insights into Wildlife Collision Incidents</h2>
+
+In the culmination of my comprehensive analysis of wildlife collision incidents, I embarked on a journey to uncover patterns, trends, and geospatial nuances encapsulated in the data spanning from 2016 to 2022. My multifaceted approach aimed to not only visualize incidents but also derive actionable insights to inform conservation strategies and enhance public awareness.
+
+<h3>Key Results:</h3>
+
+<b>Latitude and Longitude Summary Statistics:</b>
+A focus on latitude and longitude summary statistics revealed the geographical distribution of incidents. Insights gleaned from these statistics included the identification of prominent hotspots, the influence of proximity to National Parks, and a nuanced understanding of incident density in various regions.
+
+<b>Exploratory Data Visualization:</b>
+Leveraging data visualization tools, I brought the incident data to life, unveiling seasonal patterns, species distribution, and the impact of incidents across different months and years. Engaging visualizations enhanced my ability to communicate complex trends in an accessible manner. My exploration extended into a comparative analysis of 2022 against the preceding years. Notable findings included a reduction in incidents in Northern regions, persistent hotspots near National Parks, and consistent incidents in proximity to major cities.
+
+<b>Species Impact Analysis:</b>
+The examination of species impact allowed me to discern the most affected wildlife, guiding my focus on targeted conservation efforts. Filtering and visualizing the top species provided clarity on the types of collisions demanding immediate attention.
+
+<b>Clustering Analysis:</b>
+Transitioning into advanced analyses, I delved into clustering techniques to uncover spatial patterns within incidents. While HDBSCAN initially fell short, hierarchical clustering emerged as a robust alternative, emphasizing the hierarchical structure inherent in geographical data. Evaluation metrics, including the Calinski-Harabasz Index and Silhouette Coefficient, validated the efficacy of my clustering approach. The clear delineation of clusters provided a nuanced understanding of incident patterns, enabling more targeted interventions.
