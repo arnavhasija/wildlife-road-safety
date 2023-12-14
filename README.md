@@ -136,3 +136,14 @@ The examination of species impact allowed me to discern the most affected wildli
 
 <b>Clustering Analysis:</b>
 Transitioning into advanced analyses, I delved into clustering techniques to uncover spatial patterns within incidents. While HDBSCAN initially fell short, hierarchical clustering emerged as a robust alternative, emphasizing the hierarchical structure inherent in geographical data. Evaluation metrics, including the Calinski-Harabasz Index and Silhouette Coefficient, validated the efficacy of my clustering approach. The clear delineation of clusters provided a nuanced understanding of incident patterns, enabling more targeted interventions.
+
+
+<h3>Achieving Project Objectives</h3>
+
+<b>Spatial Understanding</b>: Through geospatial analyses, I achieved a good understanding of the spatial distribution of wildlife collision incidents, uncovering regional variations and identifying areas of heightened risk.
+
+<b>Conservation Implications</b>: The identification of hotspots and impactful species paves the way for informed conservation initiatives. By pinpointing regions with elevated incident frequencies, authorities can tailor interventions to protect vulnerable wildlife populations.
+
+<b>Public Awareness</b>: My visualizations and analyses provide a compelling narrative for public awareness campaigns. By translating complex data into accessible visuals, I contribute to fostering a greater understanding of the human-wildlife interface and the importance of responsible driving.
+
+In summary, this project not only fulfilled its core objectives but also ventured beyond, offering a holistic perspective on the intricate dynamics of wildlife collision incidents. The amalgamation of data exploration, visualization, and advanced analyses positions this project as a valuable resource for conservationists, policymakers, and the general public, emphasizing the urgent need for concerted efforts to mitigate the impact of vehicular collisions on our wildlife populations.
