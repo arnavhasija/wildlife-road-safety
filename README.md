@@ -123,7 +123,7 @@ These findings underscore the importance of considering seasonal and species-spe
 
 In the culmination of my comprehensive analysis of wildlife collision incidents, I embarked on a journey to uncover patterns, trends, and geospatial nuances encapsulated in the data spanning from 2016 to 2022. My multifaceted approach aimed to not only visualize incidents but also derive actionable insights to inform conservation strategies and enhance public awareness.
 
-<h3>Key Results:</h3>
+<h3>Key Results</h3>
 
 <b>Latitude and Longitude Summary Statistics:</b>
 A focus on latitude and longitude summary statistics revealed the geographical distribution of incidents. Insights gleaned from these statistics included the identification of prominent hotspots, the influence of proximity to National Parks, and a nuanced understanding of incident density in various regions.
@@ -145,5 +145,27 @@ Transitioning into advanced analyses, I delved into clustering techniques to unc
 <b>Conservation Implications</b>: The identification of hotspots and impactful species paves the way for informed conservation initiatives. By pinpointing regions with elevated incident frequencies, authorities can tailor interventions to protect vulnerable wildlife populations.
 
 <b>Public Awareness</b>: My visualizations and analyses provide a compelling narrative for public awareness campaigns. By translating complex data into accessible visuals, I contribute to fostering a greater understanding of the human-wildlife interface and the importance of responsible driving.
+
+
+<h3>Future Measures for Prevention</h3>
+
+The project findings underscore the critical need for targeted measures to prevent wildlife collisions, particularly in regions proximate to major cities and conservation parks. To address this, I propose some of the following strategies:
+
+<b>Wildlife Crossings and Fencing:</b>
+Continue to focus on the implementation of wildlife crossings and fencing near major highways and roads which can significantly mitigate collisions. These structures guide wildlife to safe passages, reducing the risk of encounters with vehicles.
+
+<b>Speed Limits and Signage:</b>
+Strategic adjustment of speed limits in high-risk areas, coupled with clear signage, can enhance driver awareness. In regions identified as collision hotspots, reducing speed limits and implementing wildlife-awareness signage can contribute to safer road conditions.
+
+<b>Public Education Campaigns:</b>
+Launching targeted public education campaigns can foster awareness about the prevalence of wildlife collisions and encourage responsible driving behaviors. Collaborations with local communities, schools, and businesses can amplify the impact of these campaigns.
+
+<b>Technology Integration:</b>
+Exploring the integration of advanced technologies, such as wildlife detection systems, into transportation infrastructure can provide real-time alerts to drivers, offering a proactive approach to collision prevention.
+
+<b>Collaboration with Conservation Authorities:</b>
+Continued collaboration between transportation authorities and conservation organizations is paramount. Joint initiatives can focus on habitat preservation, ensuring that wildlife populations are not displaced into high-risk areas.
+
+By implementing these measures, Alberta can proactively address the challenges posed by wildlife collisions, fostering safer roads for both human commuters and the diverse wildlife that shares their habitat.
 
 In summary, this project not only fulfilled its core objectives but also ventured beyond, offering a holistic perspective on the intricate dynamics of wildlife collision incidents. The amalgamation of data exploration, visualization, and advanced analyses positions this project as a valuable resource for conservationists, policymakers, and the general public, emphasizing the urgent need for concerted efforts to mitigate the impact of vehicular collisions on our wildlife populations.
