@@ -103,21 +103,25 @@ I initially opted for HDBSCAN, drawn to its reputation for robustness, but it fe
 
 Hierarchical clustering not only partitions data into clusters but also structures these clusters hierarchically. This hierarchical approach aligns seamlessly with the geographical context of the data. By organizing clusters in a tree-like structure, hierarchical clustering provides a comprehensive representation of the inherent hierarchy in the wildlife collision data, capturing relationships between clusters at different scales. While HDBSCAN excels in capturing density-driven clusters, hierarchical clustering, specifically applied in this analysis, emphasizes the hierarchical structure in a way distinct from HDBSCAN. The hierarchical clustering approach embraces the layered nature of geographical data, where proximity and hierarchy play pivotal roles. This ensures that the clusters not only reflect dense regions but also capture the broader spatial relationships between clusters. The result is a more nuanced and interpretable segmentation of the geospatial landscape of wildlife collisions.
 
-The heatmap chart below illustrates the normalized number of incidents for each month within each cluster, providing valuable insights into the seasonal patterns of wildlife collisions.
+The heatmap and the bar chart below illustrate the number of incidents for each month within each cluster, providing valuable insights into the seasonal patterns of wildlife collisions. The heatmap shows a normalized frequency of incidents, while the bar chart shows the species that were the most impacted within each cluster.
 
 <p align="center">
   <br>
   <img src="/images/img6.JPG">
 </p>
 
-<b>Cluster 1</b>: Peaks in June and November suggest heightened incidents, possibly linked to breeding or migratory seasons. A significant number of incidents (280) impacted Moose. In addition, November's peak aligns with Deer, White-Tailed breeding patterns.
+<p align="center">
+  <br>
+  <img src="/images/img7.JPG">
+</p>
 
-<b>Cluster 2</b>: Distinct patterns show elevated incidents from October to November, aligning with mating seasons or migration. Diverse impact on Deer, White-Tailed, and Deer Mule. Coyote incidents (over 100) in this cluster could relate to territorial behaviors or seasonal activities.
+<b>Cluster 1</b>: Peaks in June and November suggest heightened incidents, possibly linked to breeding or migratory seasons. A significant number of incidents (280) impacted Moose. In addition, November's peak aligns with White-Tailed Deer breeding patterns.
 
-<b>Cluster 3</b>: Varied monthly distribution with notable incidents in October, November, and December, potentially related to fall wildlife movements. Substantial Deer, Mule incidents (1300) indicate areas with a higher population. November's peak coincides with increased wildlife movement.
+<b>Cluster 2</b>: Distinct patterns show elevated incidents from October to November, aligning with mating seasons or migration. Diverse impact on White-Tailed and Mule Deer. Coyote incidents (over 100) in this cluster could relate to territorial behaviors or seasonal activities.
+
+<b>Cluster 3</b>: Varied monthly distribution with notable incidents in October, November, and December, potentially related to fall wildlife movements. Substantial Mule Deer incidents (1300) indicate areas with a higher population. November's peak also coincides with increased wildlife movement.
 
 These findings underscore the importance of considering seasonal and species-specific patterns for targeted wildlife collision prevention. The clusters offer a geographical context, aiding in pinpointing regions with distinct collision risk factors.
-
 
 <h2>Conclusion: Unveiling Insights into Wildlife Collision Incidents</h2>
 
